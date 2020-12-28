@@ -1,3 +1,7 @@
+# Restaurant Website
+
+This is a Restuarant Website built using HTML, CSS and Javascript
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DhairyaMehta2000/mod5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
